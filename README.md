@@ -22,6 +22,3 @@ Entre essas sentenças, o insight mais interessante pode estar relacionado à pr
 
 *Apesar dos parágrafos gerarem um sentimento com certa margem de erro, o modelo não reconhece nas sentenças utilizadas nenhum insight que pode me mostrar sobre quais palavras possivelmente levaram a tal sentimento.*
 
-## Exemplo
-
-![Exemplo com uma screenshot](inputs\exemplo.png)
